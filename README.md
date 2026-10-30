@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Bhanu Prakash! 👋
 
-<!--
-**bhanu-prakash-09/bhanu-prakash-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Technology Professional | Open to Software & Data Roles 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Professional Summary
+- 🎓 **Fresh Graduate** focused on building clean, functional, and data-driven applications.
+- ⚡ Passionate about modern web technologies, data analytics, and continuous learning.
+- 📐 Dedicated to writing clean code, designing clear dashboards, and structural problem-solving.
+
+## 🛠️ Tech Stack & Skills
+- **Languages:** `Python` | `HTML` | `CSS` | `JavaScript`
+- **Data & Analytics:** `SQL` | `Power BI`
+- **Developer Tools:** `Git` | `GitHub` | `VS Code` 
+- **Core Concepts:** `Database Management` | `Data Visualization` | `Version Control`
+
+## 📈 My GitHub Activity
+![Bhanu's GitHub Stats](https://vercel.app)
+
+---
+
+## 🌐 Connect with Me
+- 💼 **LinkedIn:** [linkedin.com/in/bhanu-prakash-43501a2b1](https://www.linkedin.com/in/bhanu-prakash-43501a2b1/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXK1Ar0FeTQKBjz3koaw%2BGg%3D%3D)
+- 📧 **Email:** [ladigondabhanuprakashreddy@gmail.com](mailto:ladigondabhanuprakashreddy@gmail.com)
